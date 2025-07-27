@@ -1,5 +1,7 @@
 <img width="1154" height="643" alt="image" src="https://github.com/user-attachments/assets/9da6f749-d978-4afc-a2d1-801799f4a715" />
 
+https://app.powerbi.com/view?r=eyJrIjoiZWJlMTFlOWEtNzNmMi00M2VkLThmZmUtYzk4NzdmYmUxNTQyIiwidCI6ImIzNGMxZDU1LWE0M2UtNGEyMC05MjE4LWExYTQyZWFiMTQ5YSJ9
+
 📊 Dashboard Power BI - Cliente Gatito
 
 Este projeto apresenta um dashboard desenvolvido no Power BI com foco na análise de dados de clientes da empresa fictícia **Gatito**, 
