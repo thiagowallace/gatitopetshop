@@ -52,3 +52,5 @@ PowerBI-Projeto-Cliente-Gatito/
 📧 thiagowallacepaz@gmail.com  
 🔗 https://www.linkedin.com/in/thiagowallace/ 
 
+
+
